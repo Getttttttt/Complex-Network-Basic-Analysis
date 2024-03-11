@@ -1,0 +1,6 @@
+ERROR:root:Error calculating average shortest path length: Graph is not strongly connected.
+ERROR:root:Error generating BA model and analyzing: module 'networkx.generators.directed' has no attribute 'barabasi_albert_graph'
+ERROR:root:Error calculating average shortest path length: Graph is not strongly connected.
+ERROR:root:Error generating BA model and analyzing: module 'networkx.generators.directed' has no attribute 'barabasi_albert_graph'
+ERROR:root:Error calculating average shortest path length: Graph is not strongly connected.
+ERROR:root:Error generating BA model and analyzing: module 'networkx.generators.directed' has no attribute 'barabasi_albert_graph'

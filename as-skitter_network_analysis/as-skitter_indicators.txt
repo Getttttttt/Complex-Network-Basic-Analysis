@@ -1,0 +1,4 @@
+Average Degree: 13.080877025963575
+Density: 7.710899005763673e-06
+Clustering Coefficient: 0.2581470974699145
+Power Law Exponent: 1.2730037413143822
